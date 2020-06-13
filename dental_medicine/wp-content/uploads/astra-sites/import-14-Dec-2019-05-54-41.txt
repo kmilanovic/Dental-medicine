@@ -1,0 +1,19 @@
+
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Dentalna poliklinika' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 403
+Post ID: 401
+Post ID: 400
+Post ID: 402
+Post ID: 399
+Post ID: 394
+Post ID: 395
+Post ID: 396
+Post ID: 397
+Post ID: 398
+Batch Process Complete!
+Complete 

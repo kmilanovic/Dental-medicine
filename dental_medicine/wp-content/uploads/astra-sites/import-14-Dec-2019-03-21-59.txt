@@ -1,0 +1,73 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) PHP/7.2.18
+MySQL version 		: 5.7.26
+XML Reader 		: Yes
+PHP Version 		: 7.2.18
+PHP Max Input Vars 	: 5000
+PHP Max Post Size 	: 512M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 512 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/Zagreb
+
+-----
+
+Importing Started! - 15:34:07 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 32
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.1.2","theme-auto-version":"2.1.2","headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"800","body-font-family":"'Work Sans', sans-serif","body-font-weight":"400","theme-color":"#29d8db","link-color":"#29d8db","link-h-color":"#01578c","font-size-site-title":{"desktop":"25","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#29d8db","button-bg-h-color":"#106ca0","button-radius":10,"headings-font-variant":"","font-size-h1":{"desktop":"60","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"40","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section":"widget","_astra_pb_compatibility_completed":true,"button-v-padding":18,"body-font-variant":"","header-main-rt-section-button-text":"Call Now","header-main-rt-section-button-link":"#","header-main-rt-section-button-style":"custom-button","body-line-height":"1.5","para-margin-bottom":"0","header-main-rt-section-button-padding":{"desktop":{"top":"15","right":"35","bottom":"15","left":"35"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep":0,"site-content-layout":"boxed-container","different-retina-logo":false,"disable-primary-nav":false,"text-color":"#4a4a4a","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-divider":1,"footer-bg-obj":{"background-color":"#f6f9f9","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#01578c","footer-sml-divider-color":"rgba(221,221,221,0.8)","ast-header-retina-logo":"","ast-header-responsive-logo-width":{"desktop":"160","tablet":"","mobile":"140"},"display-site-title":false,"footer-link-color":"#01578c","mobile-header-breakpoint":"768","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#01578c","mobile-header-toggle-btn-border-radius":7},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/493/wxr.xml
+Inserted - Term 4 - {"term_id":4,"name":"Uncategorized","slug":"uncategorized","term_group":0,"term_taxonomy_id":4,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":5,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 6 - {"term_id":6,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":6,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 35 - nav_menu_item - Home
+Inserted - Post 36 - nav_menu_item - About
+Inserted - Post 37 - nav_menu_item - Procedures
+Inserted - Post 38 - nav_menu_item - Reviews
+Inserted - Post 39 - attachment - hero-bg-free-img
+Inserted - Post 49 - attachment - about-bg-free-img
+Inserted - Post 117 - attachment - team-member02
+Inserted - Post 118 - attachment - team-member01
+Inserted - Post 119 - attachment - team-member03
+Inserted - Post 202 - attachment - doctor-free-img
+Inserted - Post 225 - attachment - dental-site-logo
+Inserted - Post 260 - attachment - dental-clinic-yoast-img
+Inserted - Post 261 - attachment - procedures-section-bg
+Inserted - Post 263 - attachment - icon01-free-img
+Inserted - Post 264 - attachment - icon02-free-img
+Inserted - Post 265 - attachment - icon03-free-img
+Inserted - Post 266 - attachment - icon04-free-img
+Inserted - Post 267 - attachment - icon05-free-img
+Inserted - Post 268 - attachment - icon06-free-img
+Inserted - Post 271 - attachment - favicon
+Inserted - Post 6 - page - Home
+Inserted - Post 272 - nav_menu_item - Contact
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/dentist-02\/wp-content\/uploads\/sites\/493\/2019\/09\/dental-site-logo.svg","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1240","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#29d8db","2":"#f6f9f9","3":"#7a7a7a","4":"#61ce70","5":"#01578c","6":"#4a4a4a","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}},"header-widget":{"astra-widget-list-icons-5":{"title":"","list":[{"title":"+1800 456 789","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"phone-volume\",\"path\":\"M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z\",\"viewbox\":\"0 0 384 512\"}"}],"space_btn_list":"","space_btn_icon_text":"","divider":"no","divider_style":"solid","divider_weight":"","divider_color":"","icon_color":"#106ca0","background_color":"","width":"20"}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Dentalna poliklinika' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 19
+Post ID: 20
+Post ID: 21
+Post ID: 22
+Post ID: 35
+Post ID: 36
+Post ID: 37
+Post ID: 38
+Post ID: 272
+Batch Process Complete!
